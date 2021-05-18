@@ -32,4 +32,6 @@ SAP Fiori elements application for managing products
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
+#### Desarrollado por Nicole Bahamón Martínez. Código: 201629594.
+
 
